@@ -1,0 +1,18 @@
+{
+  "name": "e2e_cypress",
+  "version": "1.0.0",
+  "description": "E2E",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "E2E"
+  ],
+  "author": "Lukasz Stolarz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}
